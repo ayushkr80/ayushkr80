@@ -29,9 +29,9 @@
 ### 📊 Github Stats:
 <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkr80&theme=midnight-purple"
-        alt="Prince Raj's Github Streaks" width="48%" align="left">
+        alt="Ayush Kumar Github Streaks" width="48%" align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=ayushkr80&theme=midnight-purple&show_icons=true&rank_icon=github&hide=prs,issues"
-        alt="Prince Raj's Github Stats" width="48%" align="left">
+        alt="Ayush Kumar Github Stats" width="48%" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkr80&theme=midnight-purple"
         alt="Top Programming Languages" width="42%" align="top-right">
 </p>
