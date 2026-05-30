@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ayush Kumar 👋</h1>
 
 <p align="center">
-  <em>CSE Undergrad @ IIT Bhilai · DRDO Research Intern · Aspiring Data Analyst</em>
+  <em>EE Undergrad @ IIT Bhilai · DRDO Research Intern · Aspiring Data Analyst</em>
 </p>
 
 <p align="center">
