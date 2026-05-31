@@ -17,7 +17,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Computer Science undergrad at **IIT Bhilai**
+- 🎓 Electrical Engineering undergrad at **IIT Bhilai**
 - 🔬 Research Intern at **DRDO** — working on data-driven defense tech
 - ▪ Love turning messy datasets into clear insights with **Python + Pandas**
 - 🧠 Currently sharpening: **SQL, Machine Learning, System Design**
